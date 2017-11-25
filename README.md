@@ -1,6 +1,6 @@
 # ethereumDevDocker
 ### Ethereum Dapp Dev Enviroment 
-Pretty much Based off the instructions in https://www.youtube.com/watch?v=rmtsh7Q7sbE (but on docker instead of amazon), Thanks @AlwaysBCoding!!
+Pretty much Based off the instructions in https://www.youtube.com/watch?v=rmtsh7Q7sbE (but on docker instead of amazon), Thanks AlwaysBCoding!!
 #### Note: This is still a work in progress
 #### Requirements
 - Docker (can get from homebrew or https://www.docker.com/)
