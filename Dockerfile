@@ -6,6 +6,5 @@ RUN apt-get install -y  nodejs
 RUN npm install -g ethereumjs-testrpc
 VOLUME ["/etherTest"]
 WORKDIR /etherTest	
-RUN npm install
 EXPOSE 4003
 

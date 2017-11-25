@@ -2,8 +2,8 @@ version: '3'
 services:
   ethtest:
     build: .
-    command: testrpc
     volumes:
-        - .workEnv/:/etherTest
+        - ./workEnv/:/etherTest
+    command: bash -c "cd /etherTest && npm install && testrpc"
     ports:
      - "4003:4003"
